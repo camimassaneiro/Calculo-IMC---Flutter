@@ -1,4 +1,4 @@
-# Calculando IMC - Flutter / Dart
+# Calculando IMC - Flutter / Dart :iphone:
 
 A new Flutter project.
 
