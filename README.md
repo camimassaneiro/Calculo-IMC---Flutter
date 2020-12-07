@@ -16,7 +16,7 @@ Com esse código você saberá como utilizar os widgets de:
 - Controller e Cálculos
 - Formulários e Validações
 
-![Tela do software]()
+![Tela do software](https://github.com/camimassaneiro/Calculo-IMC---Flutter/blob/master/imc.PNG)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
