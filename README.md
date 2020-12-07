@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 Nesse projeto foram aplicado os conhecimentos ensinados no curso de Flutter pelo instrutor Daniel Ciolfi.
 
-Com esse código você saberá como utilizar os widgets de:
+#### Com esse código você saberá como utilizar os widgets de:
 
 - Scaffold e AppBar
 - TextField e Decoration
