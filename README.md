@@ -1,4 +1,4 @@
-# calculo_imc
+# Calculando IMC - Flutter / Dart
 
 A new Flutter project.
 
@@ -6,10 +6,17 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Nesse projeto foram aplicado os conhecimentos ensinados no curso de Flutter pelo instrutor Daniel Ciolfi.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Com esse código você saberá como utilizar os widgets de:
+
+- Scaffold e AppBar
+- TextField e Decoration
+- ScrollView e RaisedButton
+- Controller e Cálculos
+- Formulários e Validações
+
+![Tela do software]()
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
