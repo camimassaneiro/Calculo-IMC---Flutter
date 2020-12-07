@@ -16,7 +16,7 @@ Nesse projeto foram aplicado os conhecimentos ensinados no curso de Flutter pelo
 - Controller e Cálculos
 - Formulários e Validações
 
-![Tela do software](https://github.com/camimassaneiro/Calculo-IMC---Flutter/blob/master/imc.PNG)
+![Tela do software](https://github.com/camimassaneiro/Calculo-IMC---Flutter/blob/master/imc.PNG) ![Tela](https://github.com/camimassaneiro/Calculo-IMC---Flutter/blob/master/imc%20f.PNG)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
